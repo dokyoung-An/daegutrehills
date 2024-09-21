@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20025" appversion="7.0.10" start="node5">
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-0.943956" pan="5.39227" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="세대입구" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node5" copyright="" author="" datetime="2024:09:19 11:57:06"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node4}" id="Point01" skinid="ht_node" pan="-3.68" tilt="-25.26" title="현관" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-4.39105" pan="-179.304" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="현관" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node4" copyright="" author="" datetime="2024:09:19 11:56:56"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node5}" id="Point01" skinid="ht_node" pan="-356.98" tilt="-24.21" title="세대입구" description="" target=""/>
+      <hotspot url="{node1}" id="Point02" skinid="ht_node" pan="-180.35" tilt="-33.31" title="복도3" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-0.5349" pan="-179.399" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="침실1" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node11" copyright="" author="" datetime="2024:09:19 11:55:50"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node10}" id="Point01" skinid="ht_node" pan="-170.21" tilt="-23.65" title="파우더룸" description="" target=""/>
+      <hotspot url="{node14}" id="Point02" skinid="ht_node" pan="-236.04" tilt="-19.89" title="복도1" description="" target=""/>
+      <hotspot url="{node7}" id="Point03" skinid="ht_node" pan="-319.9" tilt="-18.86" title="발코니" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-0.931058" pan="-1.67032" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="파우더룸" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node10" copyright="" author="" datetime="2024:09:19 11:55:41"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node9}" id="Point01" skinid="ht_node" pan="-174.79" tilt="-23.39" title="드레스룸" description="" target=""/>
+      <hotspot url="{node11}" id="Point03" skinid="ht_node" pan="-260.16" tilt="-28.26" title="침실1" description="" target=""/>
+      <hotspot url="{node8}" id="Point02" skinid="ht_node" pan="-94.03" tilt="-31.04" title="부부욕실" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-0.938821" pan="-1.6448" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="드레스룸" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node9" copyright="" author="" datetime="2024:09:19 11:55:30"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node10}" id="Point01" skinid="ht_node" pan="-350.14" tilt="-37.46" title="파우더룸" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-1.10969" pan="4.33122" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="부부욕실" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node8" copyright="" author="" datetime="2024:09:19 11:55:18"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node10}" id="Point01" skinid="ht_node" pan="-253.97" tilt="-30.95" title="파우더룸" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-2.89196" pan="-5.65828" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="발코니" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node7" copyright="" author="" datetime="2024:09:19 11:55:08"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node6}" id="Point01" skinid="ht_node" pan="-93.36" tilt="-29.15" title="실외기실" description="" target=""/>
+      <hotspot url="{node11}" id="Point02" skinid="ht_node" pan="-185.14" tilt="-20.86" title="침실1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-0.815711" pan="0.983452" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="실외기실" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node6" copyright="" author="" datetime="2024:09:19 11:54:55"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node7}" id="Point01" skinid="ht_node" pan="-277.51" tilt="-25.09" title="발코니" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="0.307789" pan="-54.6152" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="복도1" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node14" copyright="" author="" datetime="2024:09:19 11:56:08"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node13}" id="Point01" skinid="ht_node" pan="-356.79" tilt="-25.21" title="주방" description="" target=""/>
+      <hotspot url="{node15}" id="Point02" skinid="ht_node" pan="-86.3" tilt="-19.59" title="거실" description="" target=""/>
+      <hotspot url="{node11}" id="Point03" skinid="ht_node" pan="-134.36" tilt="-16.53" title="침실1" description="" target=""/>
+      <hotspot url="{node17}" id="Point04" skinid="ht_node" pan="-207.43" tilt="-33.41" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-4.6141" pan="-4.57652" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="거실" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node15" copyright="" author="" datetime="2024:09:19 11:56:14"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node14}" id="Point01" skinid="ht_node" pan="-177.41" tilt="-18.39" title="복도1" description="" target=""/>
+      <hotspot url="{node11}" id="Point02" skinid="ht_node" pan="-142.64" tilt="-15.05" title="침실1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="1.37297" pan="-176.692" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="주방" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node13" copyright="" author="" datetime="2024:09:19 11:56:03"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node12}" id="Point01" skinid="ht_node" pan="-83.77" tilt="-22.17" title="다용도실" description="" target=""/>
+      <hotspot url="{node14}" id="Point02" skinid="ht_node" pan="-176.95" tilt="-19.34" title="복도1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-1.50587" pan="-175.988" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="다용도실" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node12" copyright="" author="" datetime="2024:09:19 11:55:57"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node13}" id="Point01" skinid="ht_node" pan="-252.36" tilt="-22.15" title="주방" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-1.49467" pan="-176.191" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="복도2" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node17" copyright="" author="" datetime="2024:09:19 11:56:28"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node1}" id="Point01" skinid="ht_node" pan="-183.16" tilt="-28.13" title="복도3" description="" target=""/>
+      <hotspot url="{node2}" id="Point02" skinid="ht_node" pan="-251.08" tilt="-25.75" title="침실2" description="" target=""/>
+      <hotspot url="{node16}" id="Point03" skinid="ht_node" pan="-117" tilt="-27.3" title="공용욕실" description="" target=""/>
+      <hotspot url="{node14}" id="Point04" skinid="ht_node" pan="-342.69" tilt="-27.6" title="복도1" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-1.12168" pan="4.43749" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="복도3" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node1" copyright="" author="" datetime="2024:09:19 11:56:36"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node3}" id="Point01" skinid="ht_node" pan="-227.12" tilt="-22.77" title="침실3" description="" target=""/>
+      <hotspot url="{node2}" id="Point02" skinid="ht_node" pan="-344.79" tilt="-14.86" title="침실2" description="" target=""/>
+      <hotspot url="{node17}" id="Point03" skinid="ht_node" pan="-0.22" tilt="-20.6" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-5.92381" pan="0.384119" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="침실2" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node2" copyright="" author="" datetime="2024:09:19 11:56:43"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node17}" id="Point01" skinid="ht_node" pan="-162.73" tilt="-20.85" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-5.92063" pan="0.404392" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="침실3" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node3" copyright="" author="" datetime="2024:09:19 11:56:49"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node1}" id="Point01" skinid="ht_node" pan="-163.96" tilt="-21.17" title="복도3" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="2000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2000">
+      <level height="2000" width="2000" preload="0" predecode="0"/>
+      <level height="1000" width="1000" preload="0" predecode="0"/>
+      <level height="500" width="500" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" tilt="-3.45568" pan="-4.13347" fov="147.14"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" tilt="90" pan="360" fov="140" fovstereographic="330"/>
+    </view>
+    <userdata altitude="144.30" source="" heading="0" tags="2024년 09월 13일 대구 교대역 푸르지오 트레힐즈 104동 2303호 (34평)" title="공용욕실" longitude="127.534283" customnodeid="" latitude="34.968947" comment="" info="" description="" nodeid="node16" copyright="" author="" datetime="2024:09:19 11:56:21"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" border="1" height="20" background="1" borderradius="1" width="180" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot url="{node17}" id="Point01" skinid="ht_node" pan="-149.85" tilt="-31.4" title="복도2" description="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" softedge="0" zoomfov="40" enabled="1" blendcolor="0x000000" type="crossdissolve" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" zoomoutpause="1" delay="none"/>
+    <autorotate nodefilter="" startloaded="0" enabled="1" nodedelay="0.00" noderandom="1" returntohorizon="0.000" speed="0.020" horizonfromdefview="0" delay="10.00" useanimation="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertcontrol="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="1" invertwheel="0" lockedkeyboard="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" comment="" title="교대역 푸르지오 트레힐즈" description="104동 2303호" copyright="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
